@@ -1,0 +1,1 @@
+Product image assets uploaded via ChatGPT Git blob pipeline.
