@@ -1,0 +1,1 @@
+blob route unavailable through this invocation path
